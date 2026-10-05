@@ -432,5 +432,3 @@ body { min-height: 0px; }
   }
 }
 
-.home-seo-intro,.gallery-intro{max-width:1180px;margin:0 auto 24px;padding:0 4%}.home-seo-intro h1,.gallery-intro h1{font-size:34px;font-weight:400;line-height:1.2;margin:0 0 10px}.home-seo-intro p,.gallery-intro p{max-width:820px;font-size:16px;line-height:1.5;margin:0}.homegrid{margin-top:0}.gallery-intro{max-width:1480px;margin-bottom:20px}
-@media(max-width:800px){.home-seo-intro,.gallery-intro{padding:0 5%;margin-bottom:18px}.home-seo-intro h1,.gallery-intro h1{font-size:28px}}
